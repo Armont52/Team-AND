@@ -23,7 +23,7 @@
 이름 | example@google.com | 기획, 스토리  
 이름 | example@google.com | 아트  
 권일준 | jonkwon99@naver.com | 프로그래밍, 문서정리  
-이름 | example@google.com | 프로그래밍  
+김민철 | example@google.com | 프로그래밍  
 
 ### Tech Stack
 개발 툴
