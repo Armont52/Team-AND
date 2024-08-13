@@ -23,7 +23,7 @@
 이름 | example@google.com | 기획, 스토리  
 박상혁 | blazerod92@gmail.com | 아트  
 권일준 | jonkwon99@naver.com | 프로그래밍, 문서정리  
-김민철 | example@google.com | 프로그래밍  
+김민철 | mc3833@naver.com | 프로그래밍  
 
 ### Tech Stack
 문서 관리 및 협력 툴  
