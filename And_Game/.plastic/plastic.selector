@@ -1,4 +1,0 @@
-repository "And_Game@And_Game@cloud"
-  path "/"
-    br "/main"
-    co "/main"
